@@ -1,0 +1,1800 @@
+Food,Category
+Avacado,Compost
+Apple,Compost
+Banana,Compost
+Orange,Compost
+Mango,Compost
+Strawberry,Compost
+Blueberry,Compost
+Pineapple,Compost
+Watermelon,Compost
+Peach,Compost
+Grape,Compost
+Broccoli,Compost
+Spinach,Compost
+Carrot,Compost
+Onion,Compost
+Potato,Compost
+Tomato,Compost
+Bell Pepper,Compost
+Cauliflower,Compost
+Asparagus,Compost
+Zucchini,Compost
+Chicken Breast,Compost
+Pork Chop,Compost
+Beef Steak,Compost
+Turkey,Compost
+Lamb Shank,Compost
+Duck,Compost
+Bacon,Compost
+Ham,Compost
+Sausage,Compost
+Salami,Compost
+Salmon,Compost
+Tuna,Compost
+Shrimp,Compost
+Lobster,Compost
+Crab,Compost
+Mussels,Compost
+Oysters,Compost
+Cod,Compost
+Sardines,Compost
+Clams,Compost
+Milk,Compost
+Cheese,Compost
+Butter,Compost
+Yogurt,Compost
+Cream,Compost
+Ice Cream,Compost
+Cottage Cheese,Compost
+Sour Cream,Compost
+Mozzarella,Compost
+Cheddar,Compost
+Rice,Compost
+Pasta,Compost
+Bread,Compost
+Quinoa,Compost
+Oats,Compost
+Barley,Compost
+Corn,Compost
+Wheat,Compost
+Rye,Compost
+Buckwheat,Compost
+Lentils,Compost
+Chickpeas,Compost
+Black Beans,Compost
+Kidney Beans,Compost
+Soybeans,Compost
+Peanuts,Compost
+Green Peas,Compost
+Navy Beans,Compost
+Pinto Beans,Compost
+Lima Beans,Compost
+Almonds,Compost
+Walnuts,Compost
+Cashews,Compost
+Pumpkin Seeds,Compost
+Sunflower Seeds,Compost
+Chia Seeds,Compost
+Flaxseeds,Compost
+Pecans,Compost
+Hazelnuts,Compost
+Pistachios,Compost
+Salt,Compost
+Black Pepper,Compost
+Cinnamon,Compost
+Basil,Compost
+Oregano,Compost
+Turmeric,Compost
+Garlic,Compost
+Ginger,Compost
+Rosemary,Compost
+Thyme,Compost
+Chocolate,Compost
+Cookies,Compost
+Cake,Compost
+Candy,Compost
+Chips,Compost
+Popcorn,Compost
+Granola Bars,Compost
+Ice Cream Sandwich,Compost
+Donuts,Compost
+Muffins,Compost
+Pancakes,Compost
+Omelette,Compost
+French Toast,Compost
+Bagel with Cream Cheese,Compost
+Avocado Toast,Compost
+Granola with Yogurt and Fruit,Compost
+Breakfast Burrito,Compost
+English Breakfast,Compost
+Belgian Waffles,Compost
+Smoothie Bowl,Compost
+Caesar Salad,Compost
+Grilled Cheese Sandwich,Compost
+Sushi,Compost
+Quiche,Compost
+Falafel Wrap,Compost
+Pizza,Compost
+Burger,Compost
+Tacos,Compost
+Pad Thai,Compost
+Chicken Caesar Wrap,Compost
+Spaghetti Carbonara,Compost
+Beef Stroganoff,Compost
+Curry ,Compost
+Lasagna,Compost
+Roast Chicken with Vegetables,Compost
+Grilled Salmon with Asparagus,Compost
+Ratatouille,Compost
+BBQ Ribs,Compost
+Vegetarian Chili,Compost
+Duck Confit,Compost
+Hummus and Vegetables,Compost
+Cheese and Crackers,Compost
+Nachos,Compost
+Edamame,Compost
+Bruschetta,Compost
+Chicken Wings,Compost
+Spring Rolls,Compost
+Empanadas,Compost
+Samosas,Compost
+Onion Rings,Compost
+Tomato Soup,Compost
+Chicken Noodle Soup,Compost
+Minestrone,Compost
+Beef Pho,Compost
+French Onion Soup,Compost
+Clam Chowder,Compost
+Gazpacho,Compost
+Miso Soup,Compost
+Lentil Soup,Compost
+Hot and Sour Soup,Compost
+Greek Salad,Compost
+Nicoise Salad,Compost
+Caprese Salad,Compost
+Waldorf Salad,Compost
+Cobb Salad,Compost
+Spinach and Strawberry Salad,Compost
+Beet and Goat Cheese Salad,Compost
+Kale Salad,Compost
+Arugula Salad with Lemon and Parmesan,Compost
+Quinoa Salad,Compost
+Paella,Compost
+Ramen,Compost
+Tandoori Chicken,Compost
+Moussaka,Compost
+Sauerbraten (German Pot Roast),Compost
+Bibimbap,Compost
+Fish and Chips,Compost
+Poutine,Compost
+Jerk Chicken,Compost
+Goulash,Compost
+Philly Cheesesteak,Compost
+Clam Chowder,Compost
+Buffalo Wings,Compost
+Meatloaf,Compost
+Reuben Sandwich,Compost
+Cornbread,Compost
+Jambalaya,Compost
+Chicago-style Deep Dish Pizza,Compost
+Cobb Salad,Compost
+Key Lime Pie,Compost
+Cannoli,Compost
+Osso Buco,Compost
+Caponata,Compost
+Vitello Tonnato,Compost
+Gnocchi,Compost
+Arancini,Compost
+Polenta,Compost
+Focaccia,Compost
+Tiramisu,Compost
+Panna Cotta,Compost
+Ratatouille,Compost
+Bouillabaisse,Compost
+Quiche Lorraine,Compost
+Croque Monsieur,Compost
+Beef Bourguignon,Compost
+Madeleines,Compost
+Soufflé,Compost
+Escargot,Compost
+Coq au Vin,Compost
+Tarte Tatin,Compost
+Peking Duck,Compost
+Char Siu,Compost
+Hot Pot,Compost
+Mapo Tofu,Compost
+Dumplings,Compost
+Wonton Soup,Compost
+Congee,Compost
+Szechuan Beef,Compost
+Spring Rolls,Compost
+Egg Tart,Compost
+Katsu Curry,Compost
+Okonomiyaki,Compost
+Miso Soup,Compost
+Tempura,Compost
+Sushi,Compost
+Udon,Compost
+Yakitori,Compost
+Ramen,Compost
+Takoyaki,Compost
+Matcha Ice Cream,Compost
+Butter Chicken,Compost
+Rogan Josh,Compost
+Palak Paneer,Compost
+Dosa,Compost
+Chana Masala,Compost
+Naan Bread,Compost
+Biryani,Compost
+Samosas,Compost
+Gulab Jamun,Compost
+Lassi,Compost
+Hummus,Compost
+Shawarma,Compost
+Falafel,Compost
+Tabouleh,Compost
+Kebab,Compost
+Baklava,Compost
+Fattoush,Compost
+Kofta,Compost
+Moussaka,Compost
+Dolma,Compost
+Jollof Rice,Compost
+Tagine,Compost
+Bunny Chow,Compost
+Injera with Doro Wat,Compost
+Bobotie,Compost
+Mafe,Compost
+Piri Piri Chicken,Compost
+Couscous,Compost
+Fufu,Compost
+Suya,Compost
+Empanadas,Compost
+Ceviche,Compost
+Tamales,Compost
+Arepas,Compost
+Feijoada,Compost
+Pisco Sour,Compost
+Mole Poblano,Compost
+Churrasco,Compost
+Dulce de Leche,Compost
+Mate,Compost
+Pho,Compost
+Pad Thai,Compost
+Laksa,Compost
+Nasi Goreng,Compost
+Satay,Compost
+Bánh mì,Compost
+Green Curry,Compost
+Tom Yum Goong,Compost
+Mango Sticky Rice,Compost
+Durian Dessert,Compost
+Carpaccio,Compost
+Gazpacho,Compost
+Borscht,Compost
+Sauerbraten,Compost
+Goulash,Compost
+Pierogi,Compost
+Schnitzel,Compost
+Paella,Compost
+Fish and Chips,Compost
+Stroopwafel,Compost
+Quinoa Salad,Compost
+Avocado Toast,Compost
+Vegan Burger,Compost
+Sushi Burrito,Compost
+Poke Bowl,Compost
+Kimchi Tacos,Compost
+Ramen Burger,Compost
+Cronut,Compost
+Cauliflower Wings,Compost
+Jackfruit Pulled Pork,Compost
+Breakfast Skillet,Compost
+Eggs Benedict,Compost
+Bagels with Lox,Compost
+Biscuits and Gravy,Compost
+Chilaquiles,Compost
+French Toast Casserole,Compost
+Shakshuka,Compost
+Acai Bowl,Compost
+Overnight Oats,Compost
+Pancake Stack,Compost
+Poutine,Compost
+Corn Dog,Compost
+Currywurst,Compost
+Bao Buns,Compost
+Gourmet Popcorn,Compost
+Churros,Compost
+Poffertjes,Compost
+Tteokbokki,Compost
+Elote,Compost
+Samosa Chaat,Compost
+Spanakopita,Compost
+Croissant,Compost
+Beef Wellington,Compost
+Chicken Marsala,Compost
+Eclairs,Compost
+Cioppino,Compost
+Moules Frites,Compost
+Gyoza,Compost
+Haggis,Compost
+Carbonara,Compost
+Fajitas,Compost
+Chimichanga,Compost
+Enchiladas,Compost
+Baklava,Compost
+Bangers and Mash,Compost
+Fish Pie,Compost
+Shepherd's Pie,Compost
+Scotch Eggs,Compost
+Beef Tacos,Compost
+Chicken Enchiladas,Compost
+Lamb Biryani,Compost
+Tofu Katsu,Compost
+Seitan Stir-Fry,Compost
+Veggie Lasagna,Compost
+Mushroom Risotto,Compost
+Quiche,Compost
+Falafel Sandwich,Compost
+Gazpacho,Compost
+Lobster Bisque,Compost
+Beef Carpaccio,Compost
+Calamari,Compost
+Cacio e Pepe,Compost
+Margherita Pizza,Compost
+Oysters Rockefeller,Compost
+Paneer Tikka Masala,Compost
+Vegan Paella,Compost
+Chicken Souvlaki,Compost
+Beef Empanadas,Compost
+Lamb Gyros,Compost
+Duck Peking,Compost
+Sauerbraten,Compost
+Coleslaw,Compost
+Caesar Salad,Compost
+Lobster Roll,Compost
+Crab Cakes,Compost
+Goulash,Compost
+Osso Buco,Compost
+Ratatouille,Compost
+Vindaloo,Compost
+Masala Dosa,Compost
+Spaghetti Squash,Compost
+Baozi,Compost
+Kimbap,Compost
+Bibimbap,Compost
+Churros,Compost
+Cannoli,Compost
+Tarte Flambee,Compost
+Focaccia,Compost
+Croque Madame,Compost
+Tzatziki,Compost
+Halloumi,Compost
+Shakshouka,Compost
+Borscht,Compost
+Pierogi,Compost
+Ravioli,Compost
+Miso Soup,Compost
+Ramen,Compost
+Udon,Compost
+Pho,Compost
+Tom Kha Gai,Compost
+Sashimi,Compost
+Tempura,Compost
+Kebab,Compost
+Frittata,Compost
+Panzanella,Compost
+Bruschetta,Compost
+Caprese Salad,Compost
+Huevos Rancheros,Compost
+Corned Beef Hash,Compost
+Poutine,Compost
+Aloo Gobi,Compost
+Dal Makhani,Compost
+Jollof Rice,Compost
+Feijoada,Compost
+Arepas,Compost
+Ceviche,Compost
+Pisco Sour,Compost
+Mole Poblano,Compost
+Empanadas,Compost
+Dulce de Leche,Compost
+Matzo Ball Soup,Compost
+Latkes,Compost
+Knish,Compost
+Kugel,Compost
+Blintzes,Compost
+Challah Bread,Compost
+Babka,Compost
+Beef Stroganoff,Compost
+Chicken Kiev,Compost
+Plov,Compost
+Tagliatelle al Ragù,Compost
+Porchetta,Compost
+Vitello Tonnato,Compost
+Saltimbocca,Compost
+Gnocchi di Patate,Compost
+Pici all'Aglione,Compost
+Ribollita,Compost
+Cannelloni,Compost
+Arrosticini,Compost
+Frittura di Pesce,Compost
+Pollo al Mattone,Compost
+Caponata,Compost
+Involtini,Compost
+Osso Buco alla Milanese,Compost
+Pasta alla Norma,Compost
+Risotto ai Funghi,Compost
+Tortellini in Brodo,Compost
+Panettone,Compost
+Struffoli,Compost
+Tiramisù,Compost
+Affogato,Compost
+Gelato,Compost
+Zabaglione,Compost
+Panna Cotta,Compost
+Ricciarelli,Compost
+Sfogliatella,Compost
+Cannoli Siciliani,Compost
+Castagnole,Compost
+Zeppole,Compost
+Biscotti,Compost
+Ciabatta Bread,Compost
+Prosciutto e Melone,Compost
+Braciole,Compost
+Agnolotti,Compost
+Minestrone,Compost
+Focaccia Genovese,Compost
+Peperonata,Compost
+Sarde in Saor,Compost
+Polenta,Compost
+Trenette al Pesto,Compost
+Farinata,Compost
+Ribeye Steak,Compost
+Pork Belly,Compost
+Lamb Chops,Compost
+Duck Confit,Compost
+Veal Parmesan,Compost
+Bison Burgers,Compost
+Venison Stew,Compost
+Rabbit Stew,Compost
+Quail with Grapes,Compost
+Frog Legs Provençal,Compost
+Escargots à la Bourguignonne,Compost
+Oxtail Soup,Compost
+Tripe Stew,Compost
+Beef Tartare,Compost
+Surf and Turf,Compost
+Lobster Thermidor,Compost
+Grilled Swordfish,Compost
+Seared Scallops,Compost
+Mackerel Pâté,Compost
+Clam Chowder,Compost
+Sea Urchin Sashimi,Compost
+Gravlax,Compost
+Octopus Carpaccio,Compost
+Shrimp Etouffee,Compost
+Crab Louie Salad,Compost
+Oyster Po'Boy,Compost
+Fisherman's Pie,Compost
+Squid Ink Pasta,Compost
+Cioppino,Compost
+Waldorf Salad,Compost
+Greek Salad,Compost
+Nicoise Salad,Compost
+Caesar Salad,Compost
+Broccoli Salad,Compost
+Caprese Salad,Compost
+Cobb Salad,Compost
+Fruit Salad,Compost
+Quinoa Salad,Compost
+Tabouleh,Compost
+Pasta Salad,Compost
+Beet Salad with Goat Cheese,Compost
+Carrot Salad with Raisins,Compost
+Kale Salad with Lemon Dressing,Compost
+Spinach and Strawberry Salad,Compost
+Cucumber Dill Salad,Compost
+Potato Salad,Compost
+Egg Salad,Compost
+Chicken Salad,Compost
+Tuna Salad,Compost
+Macaroni Salad,Compost
+Coleslaw,Compost
+Corn Salad with Avocado,Compost
+Arugula and Watermelon Salad,Compost
+Endive Salad with Blue Cheese,Compost
+Fennel and Orange Salad,Compost
+Roasted Vegetable Salad,Compost
+Soba Noodle Salad,Compost
+Thai Beef Salad,Compost
+Vietnamese Chicken Salad,Compost
+Moussaka,Compost
+Souvlaki,Compost
+Gyro,Compost
+Spanakorizo,Compost
+Tzatziki,Compost
+Baklava,Compost
+Fasolada,Compost
+Dolmades,Compost
+Pastitsio,Compost
+Saganaki,Compost
+Kleftiko,Compost
+Loukoumades,Compost
+Horiatiki Salad,Compost
+Avgolemono Soup,Compost
+Pita Bread,Compost
+Galaktoboureko,Compost
+Halloumi Cheese,Compost
+Keftedes,Compost
+Stifado,Compost
+Tiropita,Compost
+Skordalia,Compost
+Melitzanosalata,Compost
+Octopus Grilled,Compost
+Retsina Wine,Compost
+Ouzo Drink,Compost
+Fava Santorinis,Compost
+Horta Vrasta,Compost
+Prawn Saganaki,Compost
+Lamb Fricassee,Compost
+Beeftekia,Compost
+Kokkinisto,Compost
+Yemista,Compost
+Kolokithokeftedes,Compost
+Manitaropita,Compost
+Feta Cheese,Compost
+Greek Coffee,Compost
+Metaxa,Compost
+Rizogalo,Compost
+Amygdalota,Compost
+Kourabiedes,Compost
+Vasilopita,Compost
+Tsoureki,Compost
+Pasteli,Compost
+Taramosalata,Compost
+Moustokouloura,Compost
+Gigantes Plaki,Compost
+Moussakas,Compost
+Ntomatokeftedes,Compost
+Revithokeftedes,Compost
+Loukaniko,Compost
+Apaki,Compost
+Dakos,Compost
+Marinated Anchovies,Compost
+Grilled Sardines,Compost
+Fried Calamari,Compost
+Courgette Balls,Compost
+Eggplant Dip,Compost
+Chickpea Soup,Compost
+Lentil Soup,Compost
+Fish Roe Dip,Compost
+Greek Yogurt,Compost
+Pistachio Halva,Compost
+Almond Cookies,Compost
+Spoon Sweets,Compost
+Fig Pie,Compost
+Cheese Pie,Compost
+Spinach Pie,Compost
+Honey and Walnuts,Compost
+Sesame Seed Candy,Compost
+Olive Bread,Compost
+Pomegranate Salad,Compost
+Artichokes ala Polita,Compost
+Rabbit Stifado,Compost
+Sea Bream,Compost
+Swordfish Kebab,Compost
+Shrimp with Feta,Compost
+Mussel Pilaf,Compost
+Octopus Stew,Compost
+Stuffed Squid,Compost
+Fried Smelt,Compost
+Codfish Skordalia,Compost
+Herring Roe Salad,Compost
+Smoked Eel,Compost
+Anchovy Fillets,Compost
+Sardine Pate,Compost
+Tuna Steak,Compost
+Lobster Pasta,Compost
+Crab Salad,Compost
+Seafood Risotto,Compost
+Oyster Mushrooms,Compost
+Newspapers,Recyclable
+Cardboard boxes,Recyclable
+Paperboard,Recyclable
+Office paper,Recyclable
+Magazines,Recyclable
+Mail and envelopes,Recyclable
+Aluminum cans,Recyclable
+Steel cans,Recyclable
+Tin cans,Recyclable
+Aerosol cans,Recyclable
+Glass bottles,Recyclable
+Glass jars,Recyclable
+Plastic bottles,Recyclable
+Plastic jugs,Recyclable
+Plastic tubs,Recyclable
+Plastic buckets,Recyclable
+Plastic laundry detergent bottles,Recyclable
+Plastic caps and lids,Recyclable
+Phone books,Recyclable
+Hardcover books,Recyclable
+Softcover books,Recyclable
+Catalogs,Recyclable
+Junk mail,Recyclable
+Flattened cardboard,Recyclable
+Clean pizza boxes,Recyclable
+Milk cartons,Recyclable
+Juice boxes,Recyclable
+Soup cartons,Recyclable
+Beverage cans,Recyclable
+Aluminum foil,Recyclable
+Aluminum baking pans,Recyclable
+Metal pot and pan lids,Recyclable
+Metal pots and pans,Recyclable
+Wire hangers,Recyclable
+Electronic waste,Recyclable
+Ink cartridges,Recyclable
+Batteries,Recyclable
+Compact fluorescent lamps,Recyclable
+LED bulbs,Recyclable
+Plastic bags,Recyclable
+Shampoo bottles,Recyclable
+Conditioner bottles,Recyclable
+Body wash bottles,Recyclable
+Lotion bottles,Recyclable
+Plastic take-out containers,Recyclable
+CD and DVD cases,Recyclable
+CDs and DVDs,Recyclable
+Eyeglasses,Recyclable
+Sunglasses,Recyclable
+Window glass,Recyclable
+Mirrors,Recyclable
+Ceramic dishes,Recyclable
+Porcelain items,Recyclable
+Plastic toys,Recyclable
+Car batteries,Recyclable
+Tires,Recyclable
+Paint cans,Recyclable
+Appliances,Recyclable
+Scrap metal,Recyclable
+Tools,Recyclable
+Garden hoses,Recyclable
+Rubber boots,Recyclable
+Clothing,Recyclable
+Shoes,Recyclable
+Belts,Recyclable
+Handbags,Recyclable
+Blankets and bedding,Recyclable
+Curtains,Recyclable
+Towels,Recyclable
+Stuffed animals,Recyclable
+Wool,Recyclable
+Cotton items,Recyclable
+Silk items,Recyclable
+Polyester textiles,Recyclable
+Nylon textiles,Recyclable
+Carpets and rugs,Recyclable
+Mattresses,Recyclable
+Furniture,Recyclable
+Wooden pallets,Recyclable
+Bicycles,Recyclable
+Exercise equipment,Recyclable
+Barbecue grills,Recyclable
+Lawnmowers,Recyclable
+Power tools,Recyclable
+Plastic plant pots,Recyclable
+Garden tools,Recyclable
+Books,Recyclable
+Greeting cards,Recyclable
+Wallpaper,Recyclable
+Construction and demolition debris,Recyclable
+Asphalt shingles,Recyclable
+Concrete,Recyclable
+Bricks,Recyclable
+Soil and clean fill,Recyclable
+Untreated wood,Recyclable
+Tree branches and yard waste,Recyclable
+Christmas trees,Recyclable
+Fluorescent tubes,Recyclable
+Thermostats,Recyclable
+Corks,Recyclable
+Spectacles,Recyclable
+Inkjet Printers,Recyclable
+Laser Printers,Recyclable
+Desktop Computers,Recyclable
+Laptops,Recyclable
+Tablets,Recyclable
+Smartphones,Recyclable
+Keyboards,Recyclable
+Computer Mice,Recyclable
+Computer Monitors,Recyclable
+Televisions,Recyclable
+DVD Players,Recyclable
+Blu-ray Players,Recyclable
+VCRs,Recyclable
+Stereo Systems,Recyclable
+Speakers,Recyclable
+Game Consoles,Recyclable
+Video Games,Recyclable
+Circuit Boards,Recyclable
+Electrical Cables,Recyclable
+Light Fixtures,Recyclable
+Metal Tools,Recyclable
+Aluminum Ladders,Recyclable
+Metal File Cabinets,Recyclable
+Metal Desks,Recyclable
+Metal Shelving Units,Recyclable
+Metal Bed Frames,Recyclable
+Automotive Parts,Recyclable
+Engine Parts,Recyclable
+Alloy Wheels,Recyclable
+Radiators,Recyclable
+Catalytic Converters,Recyclable
+Metal Sinks,Recyclable
+Metal Bathtubs,Recyclable
+Faucets,Recyclable
+Plumbing Pipes,Recyclable
+Electrical Wires,Recyclable
+Copper Wiring,Recyclable
+Brass Fixtures,Recyclable
+Stainless Steel Items,Recyclable
+Iron,Recyclable
+Steel Beams,Recyclable
+Metal Roofing,Recyclable
+Aluminum Siding,Recyclable
+Metal Gutters,Recyclable
+Metal Downspouts,Recyclable
+Fire Extinguishers,Recyclable
+Empty Gas Cylinders,Recyclable
+Empty Propane Tanks,Recyclable
+Water Heaters,Recyclable
+Air Conditioning Units,Recyclable
+Furnaces,Recyclable
+Dishwashers,Recyclable
+Washing Machines,Recyclable
+Dryers,Recyclable
+Stoves,Recyclable
+Microwaves,Recyclable
+Toasters,Recyclable
+Blender,Recyclable
+Coffee Makers,Recyclable
+Electric Kettles,Recyclable
+Vacuum Cleaners,Recyclable
+Carpet Sweepers,Recyclable
+Hair Dryers,Recyclable
+Electric Toothbrushes,Recyclable
+Shavers,Recyclable
+Sewing Machines,Recyclable
+Typewriters,Recyclable
+Calculators,Recyclable
+Clocks,Recyclable
+Watches,Recyclable
+Cameras,Recyclable
+Projectors,Recyclable
+Smoke Detectors,Recyclable
+Thermostats,Recyclable
+GPS Devices,Recyclable
+PDAs,Recyclable
+Electrical Drills,Recyclable
+Saws,Recyclable
+Sanding Machines,Recyclable
+Nail Guns,Recyclable
+Leaf Blowers,Recyclable
+Snow Blowers,Recyclable
+Power Washers,Recyclable
+Garden Trimmers,Recyclable
+Pool Pumps,Recyclable
+Portable Generators,Recyclable
+Battery Chargers,Recyclable
+UPS Battery Backups,Recyclable
+Medical Equipment,Recyclable
+Dental Equipment,Recyclable
+Laboratory Equipment,Recyclable
+Sports Equipment,Recyclable
+Musical Instruments,Recyclable
+Board Games,Recyclable
+Puzzles,Recyclable
+Metal Trophies,Recyclable
+Hardcover Notebooks,Recyclable
+Paper Bags,Recyclable
+Pet Food Bags,Recyclable
+Wax-coated Milk Cartons,Recyclable
+Ice Cream Cartons,Recyclable
+Fast Food Wrapping Paper,Recyclable
+Parchment Paper,Recyclable
+Butcher Paper,Recyclable
+Poster Boards,Recyclable
+Postcards,Recyclable
+Playing Cards,Recyclable
+Telephone Directories,Recyclable
+Paperback Dictionaries,Recyclable
+Paperback Notebooks,Recyclable
+Paperback Journals,Recyclable
+Non-metallic Wrapping Paper,Recyclable
+Tissue Boxes,Recyclable
+Shoe Boxes,Recyclable
+Egg Cartons,Recyclable
+Take-out Drink Holders,Recyclable
+Moving Boxes,Recyclable
+Shipping Boxes,Recyclable
+Corrugated Boxes,Recyclable
+Paperboard Packaging,Recyclable
+Frozen Food Boxes,Recyclable
+Cereal Liners,Recyclable
+Flour Bags,Recyclable
+Sugar Bags,Recyclable
+Salt Bags,Recyclable
+Tea Boxes,Recyclable
+Coffee Bags,Recyclable
+Pasta Boxes,Recyclable
+Rice Bags,Recyclable
+Disposable Paper Plates,Recyclable
+Paper Cups,Recyclable
+Paper Straws,Recyclable
+Paper Utensils,Recyclable
+Popsicle Sticks,Recyclable
+Toothpicks,Recyclable
+Bamboo Skewers,Recyclable
+Wooden Stir Sticks,Recyclable
+Matchbooks,Recyclable
+Cardboard Inserts,Recyclable
+Paper Roll Tubes,Recyclable
+Home Appliance Boxes,Recyclable
+Printer Paper Wrappers,Recyclable
+Envelope Windows,Recyclable
+Paper Tablecloths,Recyclable
+Calendars,Recyclable
+Paper Maps,Recyclable
+Paper Flags,Recyclable
+Paper Banners,Recyclable
+Paper Signs,Recyclable
+Used Ticket Stubs,Recyclable
+Boarding Passes,Recyclable
+Transit Tickets,Recyclable
+Receipts,Recyclable
+Paper Vouchers,Recyclable
+Paper Tags,Recyclable
+Paper Labels,Recyclable
+Price Tags,Recyclable
+Business Cards,Recyclable
+Instruction Manuals,Recyclable
+Paper Brochures,Recyclable
+Flyers,Recyclable
+Posters,Recyclable
+Magazines Inserts,Recyclable
+Newspaper Inserts,Recyclable
+Advertising Mail,Recyclable
+Paper-based Packaging Peanuts,Recyclable
+Paper Pads,Recyclable
+Paperbacks,Recyclable
+Academic Journals,Recyclable
+Scientific Magazines,Recyclable
+Trade Magazines,Recyclable
+Specialty Papers,Recyclable
+Art Papers,Recyclable
+Drawing Paper,Recyclable
+Watercolor Paper,Recyclable
+Sketchbooks,Recyclable
+Graph Paper,Recyclable
+Blueprint Paper,Recyclable
+Drafting Paper,Recyclable
+Copy Paper,Recyclable
+Laser Printer Papers,Recyclable
+Inkjet Printer Papers,Recyclable
+Colored Papers,Recyclable
+Glossy Papers,Recyclable
+Matte Papers,Recyclable
+Textured Papers,Recyclable
+Handmade Papers,Recyclable
+Recycled Papers,Recyclable
+Acid-free Papers,Recyclable
+Archival Papers,Recyclable
+Photographic Papers,Recyclable
+Poster Papers,Recyclable
+Banner Papers,Recyclable
+Wrapping Papers,Recyclable
+Wallpaper Scraps,Recyclable
+Aluminum beverage cans,Recyclable
+Steel food cans,Recyclable
+Glass bottles,Recyclable
+Glass jars,Recyclable
+Newspaper,Recyclable
+Office paper,Recyclable
+Cardboard boxes,Recyclable
+Paperboard,Recyclable
+Magazines and catalogs,Recyclable
+Phone books,Recyclable
+Mail and envelopes,Recyclable
+Paperback books,Recyclable
+Hardback books,Recyclable
+Printer and copier paper,Recyclable
+Brochures and flyers,Recyclable
+Shampoo bottles,Recyclable
+Laundry detergent bottles,Recyclable
+Plastic bottles,Recyclable
+Plastic jugs,Recyclable
+Plastic tubs,Recyclable
+Plastic food containers,Recyclable
+Plastic bottle caps,Recyclable
+Plastic plant pots,Recyclable
+Clear plastic egg cartons,Recyclable
+Plastic toys,Recyclable
+CD and DVD cases,Recyclable
+Beverage cartons,Recyclable
+Aseptic packaging,Recyclable
+Aluminum foil,Recyclable
+Aluminum baking trays,Recyclable
+Aluminum pie plates,Recyclable
+Metal lids from jars and bottles,Recyclable
+Aerosol cans,Recyclable
+Wire hangers,Recyclable
+Small metal appliances,Recyclable
+Copper wire,Recyclable
+Brass fixtures,Recyclable
+Stainless steel items,Recyclable
+Aluminum siding,Recyclable
+Car batteries,Recyclable
+Lithium-ion batteries,Recyclable
+Ink and toner cartridges,Recyclable
+Cell phones and smartphones,Recyclable
+Computers and laptops,Recyclable
+Computer monitors,Recyclable
+Printers and scanners,Recyclable
+Keyboards and mice,Recyclable
+Electronic tablets,Recyclable
+E-readers,Recyclable
+MP3 players,Recyclable
+Digital cameras,Recyclable
+Video game consoles,Recyclable
+Cables and chargers,Recyclable
+Small electronic appliances,Recyclable
+Power tools,Recyclable
+Fluorescent light bulbs,Recyclable
+LED light bulbs,Recyclable
+Eyeglasses,Recyclable
+Watches,Recyclable
+Textiles,Recyclable
+Shoes,Recyclable
+Handbags and belts,Recyclable
+Car tires,Recyclable
+Bicycle tires and tubes,Recyclable
+Paint cans,Recyclable
+Plastic wrap,Recyclable
+Plastic grocery bags,Recyclable
+Plastic film packaging,Recyclable
+Bread bags,Recyclable
+Dry cleaning bags,Recyclable
+Newspaper sleeves,Recyclable
+Bubble wrap,Recyclable
+Air pillows,Recyclable
+Agricultural plastic,Recyclable
+Boat wraps,Recyclable
+Fishing lines and nets,Recyclable
+Carpeting,Recyclable
+Automotive parts,Recyclable
+Scrap metals,Recyclable
+Metal tools,Recyclable
+Eyewear frames,Recyclable
+Household keys,Recyclable
+Empty metal food containers,Recyclable
+Metal pot and pan lids,Recyclable
+Clean metal bakeware,Recyclable
+Electrical wires,Recyclable
+Appliance cords,Recyclable
+Holiday lights,Recyclable
+Metal fence posts,Recyclable
+Aluminum gutters and downspouts,Recyclable
+Metal door knobs,Recyclable
+Metal plumbing fixtures,Recyclable
+License plates,Recyclable
+Metal shelving units,Recyclable
+Metal file cabinets,Recyclable
+Metal desks,Recyclable
+Empty and rinsed metal paint cans,Recyclable
+Metal beverage containers,Recyclable
+Rigid plastic packaging,Recyclable
+Juice pouches,Recyclable
+Prescription medicine bottles,Recyclable
+Cosmetic containers,Recyclable
+Garden hoses,Recyclable
+Vinyl records,Recyclable
+Plastic furniture,Recyclable
+Window glass,Recyclable
+Mirrors,Recyclable
+Ceramics,Recyclable
+Porcelain fixtures,Recyclable
+Eyeshadow palettes,Recyclable
+Mascara tubes,Recyclable
+Lipstick cases,Recyclable
+Plastic hangers,Recyclable
+Hardcover diaries,Recyclable
+Spiral notebooks,Recyclable
+Wine corks,Recyclable
+Plastic lumber,Recyclable
+Construction signs,Recyclable
+Traffic cones,Recyclable
+Bicycle frames,Recyclable
+Metal cookware,Recyclable
+Barbecue grills,Recyclable
+Metal patio furniture,Recyclable
+Shopping carts,Recyclable
+Chain link fencing,Recyclable
+Metal barrels and drums,Recyclable
+Auto glass,Recyclable
+PET fabric and clothing,Recyclable
+Plastic carpeting,Recyclable
+Post-consumer resin products,Recyclable
+HDPE lumber and outdoor furniture,Recyclable
+Plastic shipping pallets,Recyclable
+Plastic crates and bins,Recyclable
+Polycarbonate sheets,Recyclable
+Plastic signage,Recyclable
+Retail display units,Recyclable
+Motorcycle helmets,Recyclable
+Fire extinguishers,Recyclable
+Propane cylinders,Recyclable
+Gasoline tanks,Recyclable
+Solar panels,Recyclable
+Wind turbine blades,Recyclable
+Industrial filters,Recyclable
+Plastic ropes and netting,Recyclable
+Synthetic turf,Recyclable
+Plastic tarps and covers,Recyclable
+Acrylic sheets,Recyclable
+Nylon fabrics,Recyclable
+Polyethylene sheets and films,Recyclable
+Fiberglass materials,Recyclable
+Electric vehicle batteries,Recyclable
+Industrial machinery,Recyclable
+Railroad ties,Recyclable
+Boat and marine craft,Recyclable
+Aviation parts,Recyclable
+Aerospace materials,Recyclable
+Metal scaffolding,Recyclable
+Metal wire and cables,Recyclable
+Brass instruments,Recyclable
+Aluminum ladders,Recyclable
+Stainless steel appliances,Recyclable
+Metal file folders and storage boxes,Recyclable
+Electrical panels and circuit breakers,Recyclable
+Metal bed frames,Recyclable
+Bicycles and parts,Recyclable
+Skateboards,Recyclable
+Wooden pallets,Recyclable
+Hard plastic tool cases,Recyclable
+Metal toolboxes,Recyclable
+Power supply units,Recyclable
+Server racks,Recyclable
+Industrial cables and connectors,Recyclable
+Photographic film,Recyclable
+X-ray film,Recyclable
+Compact discs,Recyclable
+VHS tapes,Recyclable
+Floppy disks,Recyclable
+Cassette tapes,Recyclable
+Inkjet cartridges,Recyclable
+3D printing filament spools,Recyclable
+Plastic clipboards,Recyclable
+Credit cards and gift cards,Recyclable
+Plastic identification badges,Recyclable
+Plastic watch bands,Recyclable
+Acrylic paint containers,Recyclable
+Plastic modeling kits,Recyclable
+Model train sets,Recyclable
+Action figures and toys,Recyclable
+Plastic trophies and awards,Recyclable
+Polystyrene models and packaging,Recyclable
+Plastic labware,Recyclable
+Clean plastic buckets with metal handles,Recyclable
+Plastic irrigation pipes and tubes,Recyclable
+Landscape fabric,Recyclable
+Plastic seed trays and pots,Recyclable
+Non-PVC blinds and shades,Recyclable
+Water filters,Recyclable
+Plastic sporting goods,Recyclable
+Printer ribbons,Recyclable
+Electronic circuit boards,Recyclable
+Graphite from pencils,Recyclable
+Silicone cases and products,Recyclable
+Carbon fiber materials,Recyclable
+Rubber soles from shoes,Recyclable
+Neoprene wetsuits,Recyclable
+EVA foam from running shoes midsoles,Recyclable
+Electric cables and wire insulation,Recyclable
+Polyvinyl chloride (PVC) pipes,Recyclable
+Synthetic rubber items,Recyclable
+Unused fireworks,Recyclable
+Leather goods,Recyclable
+Asphalt pavement,Recyclable
+Billboards,Recyclable
+Boat covers,Recyclable
+Agricultural twine and netting,Recyclable
+Industrial-grade plastics,Recyclable
+Silicone kitchen utensils,Recyclable
+Broken pottery and ceramics,Recyclable
+Eyeglass lenses,Recyclable
+Fiber optic cables,Recyclable
+Lux meters and other specific electronic measuring devices,Recyclable
+Radios and other small electronics,Recyclable
+Empty deodorant containers,Recyclable
+Ski and snowboard equipment,Recyclable
+Pet carriers made of hard plastic,Recyclable
+Plastic shipping envelopes,Recyclable
+Medical plastic ware,Recyclable
+Industrial drums,Recyclable
+Plastic signage,Recyclable
+Transit fare cards,Recyclable
+Motorcycle parts,Recyclable
+Bicycle inner tube valves,Recyclable
+Metal watch cases,Recyclable
+Metal picture frames,Recyclable
+Trophies with metal components,Recyclable
+Industrial metal cable trays,Recyclable
+Aluminum window frames,Recyclable
+Brass door handles and knobs,Recyclable
+Copper wiring and plumbing fixtures,Recyclable
+Zinc anodes from boats,Recyclable
+Tin cans and containers,Recyclable
+Metal tea and coffee tins,Recyclable
+Stainless steel sinks,Recyclable
+Cast iron cookware,Recyclable
+Metal automotive parts,Recyclable
+Metal engine parts,Recyclable
+Metal shelving brackets,Recyclable
+Metal tool parts,Recyclable
+Antique metal toys,Recyclable
+Metal lamp bases,Recyclable
+Aluminum foil sheets,Recyclable
+Metal food trays,Recyclable
+Copper pots and pans,Recyclable
+Scrap metal from home repairs,Recyclable
+Metal gutters and downspouts,Recyclable
+Metal costume jewelry,Recyclable
+Metal keys,Recyclable
+Brass musical instruments,Recyclable
+Metal frames from patio furniture,Recyclable
+Metal parts from dismantled appliances,Recyclable
+Aluminum siding and cladding,Recyclable
+Metal wheel rims,Recyclable
+Metal bed springs,Recyclable
+Metal coat hangers,Recyclable
+Metal hair clips and barrettes,Recyclable
+Metal binder clips,Recyclable
+Metal paper fasteners,Recyclable
+Metal nuts,Recyclable
+Metal craft tools and supplies,Recyclable
+Metal knitting needles,Recyclable
+Metal crochet hooks,Recyclable
+Metal thimbles,Recyclable
+Metal zippers,Recyclable
+Metal buttons,Recyclable
+Metal hardware from furniture,Recyclable
+Metal slide rules and drafting tools,Recyclable
+Metal scientific lab stands,Recyclable
+Metal baking molds,Recyclable
+Metal ice cream scoops,Recyclable
+Metal wine bottle racks,Recyclable
+Metal bird cages,Recyclable
+Metal pet crates,Recyclable
+Metal storage tins,Recyclable
+Metal license plate covers,Recyclable
+Metal camping gear parts,Recyclable
+Metal tent poles,Recyclable
+Metal chains,Recyclable
+Metal lock parts,Recyclable
+Metal surgical tools,Recyclable
+Metal dental tools,Recyclable
+Metal optical frames,Recyclable
+Metal art sculptures,Recyclable
+Metal tool boxes,Recyclable
+Metal ammunition boxes,Recyclable
+Metal footlockers,Recyclable
+Metal tea kettles,Recyclable
+Metal coffee percolators,Recyclable
+Metal beer kegs,Recyclable
+Sponges and gauze,Garbage
+Orthodontic appliances,Garbage
+Chopsticks,Garbage
+Heart rate monitors,Garbage
+DVDs,Garbage
+Fat and grease containers,Garbage
+Helium tanks,Garbage
+Waxed cardboard,Garbage
+Incense sticks,Garbage
+Weightlifting equipment,Garbage
+Sports balms,Garbage
+Burnishers,Garbage
+Hoes,Garbage
+Laminated pouches,Garbage
+Cleaning chemicals,Garbage
+Rehabilitation equipment,Garbage
+Medical pumps,Garbage
+Textiles,Garbage
+Fishing nets (non-recyclable materials),Garbage
+Electrical cords,Garbage
+Matchsticks,Garbage
+Lawn furniture (non-metal),Garbage
+Biological waste containers,Garbage
+Dog waste bags,Garbage
+Fireplace ashes,Garbage
+Metal utensils with plastic handles,Garbage
+Ovenware,Garbage
+Lab towels,Garbage
+Mops,Garbage
+Wax paper,Garbage
+Feminine hygiene products,Garbage
+Single-use plastic bowls,Garbage
+garden hoses,Garbage
+Medical gloves,Garbage
+Curtains,Garbage
+Sports braces,Garbage
+Saws,Garbage
+PVC lids,Garbage
+Fertilizer bags (not empty),Garbage
+Alkaline batteries,Garbage
+Orthopedic wraps,Garbage
+Empty chemical bottles (hazardous),Garbage
+Cutters,Garbage
+CDs,Garbage
+Flexible multi-layered packaging,Garbage
+Anesthesia equipment,Garbage
+Washers,Garbage
+Beverage cups,Garbage
+Plastic crates,Garbage
+Napkins,Garbage
+Energy gel packets,Garbage
+Medical waste bags,Garbage
+Medical waste,Garbage
+Pyrex dishes,Garbage
+Drug delivery systems,Garbage
+Chemical containers (hazardous waste),Garbage
+Gym towels,Garbage
+Planes,Garbage
+Prosthetic limbs,Garbage
+Cassettes,Garbage
+Blades,Garbage
+Polypropylene film,Garbage
+Large tree stumps,Garbage
+Toys,Garbage
+Frozen food boxes (they have a lining or coating),Garbage
+Napkins with food residue,Garbage
+Cables and wires,Garbage
+Wood shavings,Garbage
+Non-recyclable plastic film,Garbage
+Anesthesia masks,Garbage
+Ammunition,Garbage
+Mouthguards,Garbage
+Toys (mixed materials),Garbage
+IV bags and tubing,Garbage
+Compact fluorescent light bulbs,Garbage
+Solvent containers (not empty),Garbage
+Fitness machines,Garbage
+Household hazardous waste,Garbage
+Used napkins,Garbage
+Tampons,Garbage
+Soil,Garbage
+Butcher paper,Garbage
+Synthetic fabrics (heavily soiled),Garbage
+Biohazardous materials,Garbage
+Empty solvent bottles,Garbage
+Vaccine vials,Garbage
+Metallic wrapping paper,Garbage
+Nails,Garbage
+Laminated cards,Garbage
+Chisels,Garbage
+PP drums,Garbage
+Laboratory glassware,Garbage
+Treadmills,Garbage
+Sports nutrition packaging,Garbage
+Polymer utensils,Garbage
+Dental molds,Garbage
+Pet waste and litter,Garbage
+Pool chemicals,Garbage
+Centrifuges,Garbage
+Sports apparel,Garbage
+Paper towels,Garbage
+Non-rechargeable batteries (if not accepted in specific programs),Garbage
+Surgical masks,Garbage
+Resistance bands,Garbage
+Sponges,Garbage
+Ladles,Garbage
+Disposable lighters,Garbage
+Syringe filters,Garbage
+Foil gift bags,Garbage
+Mallets,Garbage
+Garden waste,Garbage
+IV bags,Garbage
+Rollerblade wheels,Garbage
+Wax residue,Garbage
+Mechanical pencils,Garbage
+Plastic pallets,Garbage
+Surgical drapes,Garbage
+Cutlery,Garbage
+Ice cream wrappers,Garbage
+PP pallets,Garbage
+Pans,Garbage
+Dental floss,Garbage
+Coffee cups,Garbage
+Polyethylene ponchos,Garbage
+Solar lights,Garbage
+Potato chip bags,Garbage
+Automotive fluids,Garbage
+PET bottles,Garbage
+Athletic insoles,Garbage
+Clock batteries,Garbage
+Shoes,Garbage
+Dead plants and flowers (if not compostable),Garbage
+Sticky notes,Garbage
+Latex gloves,Garbage
+PE baskets,Garbage
+Chains,Garbage
+Wax paper,Garbage
+Glued binding books,Garbage
+Meat and cheese wrappers,Garbage
+Expired vaccines,Garbage
+Polystyrene foam egg cartons,Garbage
+Bicycle helmets,Garbage
+PET wrap,Garbage
+Worn-out sports equipment,Garbage
+Hammers,Garbage
+Firearms,Garbage
+Sports shoes,Garbage
+Dead plants,Garbage
+Bolts,Garbage
+Soiled paper,Garbage
+Single-use condiment containers,Garbage
+Plastic bows and decorations,Garbage
+Foil-sealed food containers,Garbage
+Straws,Garbage
+Water bottles,Garbage
+Sample vials,Garbage
+HDPE vials,Garbage
+Protective gear,Garbage
+Lab bench paper,Garbage
+Bedding,Garbage
+Handles,Garbage
+Axes,Garbage
+Pliers,Garbage
+Exercise equipment,Garbage
+Surgical instruments,Garbage
+Wax-coated paper plates,Garbage
+Electronics,Garbage
+Adapters,Garbage
+Disposable razors,Garbage
+Blister packs (non-recyclable materials),Garbage
+HDPE jars,Garbage
+Batteries,Garbage
+Polishers,Garbage
+PVC syringes,Garbage
+Computer peripherals (non-recyclable),Garbage
+helmets,Garbage
+Sneakers (non-recyclable materials),Garbage
+Coal and charcoal,Garbage
+Sawdust,Garbage
+Ceramics,Garbage
+Car batteries,Garbage
+Contaminated fuel containers,Garbage
+Thermal fax paper,Garbage
+Needles,Garbage
+Walking aids,Garbage
+Resin dishes,Garbage
+Renovation waste,Garbage
+Renovation debris,Garbage
+Catheters,Garbage
+Small appliances,Garbage
+Drinking glasses,Garbage
+Disposable diapers,Garbage
+Energy bar wrappers,Garbage
+Ink cartridges (non-recyclable types),Garbage
+PVC tarps,Garbage
+Sports creams,Garbage
+Incandescent light bulbs,Garbage
+Medical waste,Garbage
+Gym mats (non-recyclable materials),Garbage
+Dirty paper,Garbage
+X-ray films,Garbage
+Medical ventilators,Garbage
+Condiment packets,Garbage
+Supplement bottles,Garbage
+Charcoal,Garbage
+Microscopes,Garbage
+Pebbles,Garbage
+Wiring,Garbage
+Dishes,Garbage
+Dialysis waste,Garbage
+Aquariums,Garbage
+Leaves,Garbage
+Wax crayons,Garbage
+Autoclave bags,Garbage
+Halogen bulbs,Garbage
+Tea light candles,Garbage
+Laminated furniture,Garbage
+Tiles,Garbage
+Prosthetic components,Garbage
+Rechargeable batteries,Garbage
+Aerosol cans (not empty),Garbage
+Orthopedic casting materials,Garbage
+Pet waste,Garbage
+Umbrellas,Garbage
+Incandescent bulbs,Garbage
+Motor oil containers (not emptied or cleaned),Garbage
+Drug test kits,Garbage
+Pipettes,Garbage
+Paint cans with paint,Garbage
+Dental prosthesis,Garbage
+Leather goods,Garbage
+Medical imaging equipment,Garbage
+Demolition debris,Garbage
+Soil samples,Garbage
+Scientific instruments,Garbage
+Construction debris,Garbage
+Scrap metal,Garbage
+Petri dishes,Garbage
+Tar paper,Garbage
+Sanitary pads,Garbage
+Rubber gloves,Garbage
+Orthopedic hardware,Garbage
+PET canisters,Garbage
+Scientific samples,Garbage
+PVC crates,Garbage
+PVC rolls,Garbage
+Laboratory wipes,Garbage
+Squeeze tubes for home and personal products,Garbage
+Fertilizer bags,Garbage
+Cotton swabs with plastic sticks,Garbage
+Cat litter,Garbage
+Staples,Garbage
+Athletic tape,Garbage
+PP bins,Garbage
+Condoms,Garbage
+Grass clippings,Garbage
+Light bulbs (non-LED),Garbage
+Tissue culture flasks,Garbage
+Air freshener cartridges,Garbage
+Plastic stirrers,Garbage
+Bricks,Garbage
+Pharmaceuticals,Garbage
+Liner bags,Garbage
+Window glass,Garbage
+Oven mitts,Garbage
+Painted wood,Garbage
+Hoses,Garbage
+Crutches,Garbage
+Photographs,Garbage
+Wound dressings,Garbage
+Silicone baking sheets,Garbage
+Cups,Garbage
+Tools,Garbage
+Gravel,Garbage
+Buttons,Garbage
+Grinders,Garbage
+Bandages and medical tapes,Garbage
+Remote control batteries,Garbage
+Baby food pouches,Garbage
+Single-serving snack containers,Garbage
+Plastic-lined paper,Garbage
+Tampons and applicators,Garbage
+Plaster,Garbage
+Biological culture containers,Garbage
+HDPE barrels,Garbage
+Tongs,Garbage
+Pottery,Garbage
+Cooking oil containers,Garbage
+Aluminum foil,Garbage
+Disposable masks,Garbage
+Christmas lights,Garbage
+PVC tanks,Garbage
+Clamps,Garbage
+Pesticides,Garbage
+Wrappers,Garbage
+Rigid plastic packaging (non-recyclable types),Garbage
+Picks,Garbage
+Facial tissues,Garbage
+Stones,Garbage
+Solidified paint containers,Garbage
+Varnished wood,Garbage
+Moldy paper,Garbage
+Vinyl products,Garbage
+Polystyrene plates,Garbage
+Laminated paper,Garbage
+Faux leather items,Garbage
+Amalgam capsules,Garbage
+Dental waste,Garbage
+Fabric softener sheets,Garbage
+Baby diapers,Garbage
+Plastic tarps,Garbage
+Diaper wipes,Garbage
+Appliances,Garbage
+Watches batteries,Garbage
+Sports eyewear,Garbage
+Plastic wrap,Garbage
+Pet carriers (non-recyclable materials),Garbage
+Dental instruments,Garbage
+Window panes,Garbage
+Synthetic cutlery,Garbage
+Contaminated paper,Garbage
+PP tubs,Garbage
+Plastic-coated paper plates,Garbage
+Dental impression materials,Garbage
+Medical monitors,Garbage
+Coffee pods,Garbage
+Orthopedic implants,Garbage
+Binders,Garbage
+Acrylic bowls,Garbage
+Vinyl aprons,Garbage
+CD/DVDs (if not accepted locally),Garbage
+Grill grates (non-metal),Garbage
+Yard waste,Garbage
+Fireworks remnants,Garbage
+Pens and markers,Garbage
+Gauze,Garbage
+Porcelain fixtures,Garbage
+Crystal glassware,Garbage
+Credit cards,Garbage
+Used tissues,Garbage
+Safety glasses,Garbage
+Wet wipes,Garbage
+Laboratory gloves,Garbage
+Individual drink bottles,Garbage
+Bathroom ceramics ,Garbage
+Frozen food bags,Garbage
+Holiday decorations (non-recyclable materials),Garbage
+Sleeping bags (non-recyclable materials),Garbage
+Colostomy bags,Garbage
+Plastic mesh produce bags,Garbage
+Chromatography columns,Garbage
+Pegs,Garbage
+Mobility aids,Garbage
+Dental handpieces,Garbage
+Buffers,Garbage
+Adult diapers,Garbage
+MDF panels,Garbage
+Food-soiled paper,Garbage
+Polyethylene cups,Garbage
+Synthetic sponges,Garbage
+Insulation materials,Garbage
+Biopsy containers,Garbage
+Dental drills,Garbage
+PE buckets,Garbage
+Non-stick cookware,Garbage
+Ash and soot,Garbage
+Squeeze pouches,Garbage
+Knobs,Garbage
+Drywall,Garbage
+Respiratory therapy equipment,Garbage
+Bubble wrap,Garbage
+Dumbbells (non-metal),Garbage
+Dental burs,Garbage
+Crimpers,Garbage
+Weeds,Garbage
+Protein powder containers,Garbage
+Food-contaminated containers,Garbage
+Scientific equipment,Garbage
+Concrete,Garbage
+Dials,Garbage
+Party favors (non-recyclable materials),Garbage
+Bandages and band-aids,Garbage
+Fiberglass insulation,Garbage
+Clothes,Garbage
+Chemotherapy waste,Garbage
+Tissues,Garbage
+Crystal,Garbage
+Sand,Garbage
+PS tubes,Garbage
+Food containers with food residue,Garbage
+Blood tubes,Garbage
+Sports bandages,Garbage
+Gym mats,Garbage
+HDPE containers,Garbage
+Paint,Garbage
+Single-use plastic plates,Garbage
+Sports headbands,Garbage
+Security tags and devices,Garbage
+Roofing materials,Garbage
+Microtiter plates,Garbage
+PVC piping,Garbage
+Nuts,Garbage
+BBQ ashes,Garbage
+Pressboard furniture,Garbage
+Athletic supports,Garbage
+Wood,Garbage
+Extension cords,Garbage
+Ceramic tiles,Garbage
+Expired medications,Garbage
+Exercise bikes,Garbage
+Shears,Garbage
+Tweezers,Garbage
+LDPE bags,Garbage
+Plastic ID cards,Garbage
+Imitation stirrers,Garbage
+Forceps,Garbage
+Stand-up resealable pouch bags,Garbage
+Nylon trays,Garbage
+Chemical test kits,Garbage
+Ashes,Garbage
+Brackets,Garbage
+Tents (mixed materials),Garbage
+LED bulbs,Garbage
+Stained paper,Garbage
+Orthopedic instruments,Garbage
+ABS tubes,Garbage
+Gowns,Garbage
+Hazardous waste containers,Garbage
+Disposable face masks,Garbage
+Patient monitors,Garbage
+Chemical reagent bottles,Garbage
+Fluorescent tubes,Garbage
+Sanders,Garbage
+Filthy paper,Garbage
+Hooks,Garbage
+Flares and flare guns,Garbage
+Light bulbs,Garbage
+Synthetic ropes,Garbage
+Cleaning cloths,Garbage
+Nicotine patches,Garbage
+Clothes hangers,Garbage
+Plastic toys with electronic components,Garbage
+Disposable plastic tablecloths,Garbage
+Candle jars,Garbage
+Oxygen masks,Garbage
+Soiled dressing,Garbage
+PVC jugs,Garbage
+Mounts,Garbage
+Polystyrene foam cups,Garbage
+Couplings,Garbage
+Pots,Garbage
+Levers,Garbage
+Auto parts,Garbage
+Building materials,Garbage
+Fasteners,Garbage
+Medication vials,Garbage
+Rocks,Garbage
+Disposable chopsticks,Garbage
+Tarps (non-recyclable materials),Garbage
+VHS tapes,Garbage
+Gym clothing,Garbage
+Paper with adhesive backing,Garbage
+Nylon films,Garbage
+Specimen swabs,Garbage
+Wallpaper,Garbage
+Video cassettes,Garbage
+Asphalt shingles,Garbage
+Fiberglass,Garbage
+Paint cans (not empty),Garbage
+Spatulas,Garbage
+Fluorescent tubes (if not accepted in specific recycling),Garbage
+Oil filters,Garbage
+Receipts (thermal paper),Garbage
+Endodontic files,Garbage
+Surgical gloves,Garbage
+Treated wood,Garbage
+Insulation,Garbage
+PC sheets,Garbage
+Knives,Garbage
+Laboratory filters,Garbage
+Sharps containers,Garbage
+Pesticide containers (not empty),Garbage
+Screws,Garbage
+Toothpaste tubes,Garbage
+Coffee pods (non-compostable),Garbage
+Rasps,Garbage
+Pregnancy test kits,Garbage
+diapers,Garbage
+Specimen containers,Garbage
+Contaminated pet bedding,Garbage
+Artificial straws,Garbage
+E-cigarette cartridges,Garbage
+Metal scraps,Garbage
+Button cell batteries,Garbage
+Sports watches,Garbage
+Product manuals (if laminated or coated),Garbage
+Pharmaceutical waste containers,Garbage
+Animal bedding,Garbage
+Black plastic items,Garbage
+Halogen light bulbs,Garbage
+Printer cartridges (if not accepted in specific recycling programs),Garbage
+Cling wrap, Garbage
+Hydration packs,Garbage
+Cigarette ashes,Garbage
+Sports drink bottles,Garbage
+Encyclopedias (if not accepted),Garbage
+Pool covers (non-recyclable materials),Garbage
+Blister packs,Garbage
+Pins,Garbage
+Latches,Garbage
+Gift ribbon,Garbage
+Carpets,Garbage
+Spectrophotometry cuvettes,Garbage
+Dental lab equipment,Garbage
+Hearing aid batteries,Garbage
+Propane tanks,Garbage
+Joints,Garbage
+Centrifuge tubes,Garbage
+Shovels,Garbage
+Personal hygiene products,Garbage
+Wrenches,Garbage
+Fireworks,Garbage
+Switches,Garbage
+Mercury thermometers,Garbage
+Scissors,Garbage
+Books (contaminated),Garbage
+CFL bulbs,Garbage
+Physiotherapy equipment,Garbage
+Cables,Garbage
+Hotel key cards,Garbage
+Skateboard wheels,Garbage
+Files,Garbage
+Paint cans,Garbage
+Toner cartridges (non-recyclable types),Garbage
+Sports balls,Garbage
+Candy wrappers,Garbage
+Stumps,Garbage
+Audio cassettes,Garbage
+Clips,Garbage
+Yoga mats (non-recyclable materials),Garbage
+Synthetic fabric ribbons,Garbage
+Metallic gift wrap and bows,Garbage
+Wheelchairs,Garbage
+Plastic straws,Garbage
+Connectors,Garbage
+Grease-proof paper,Garbage
+Oilcloths,Garbage
+Halloween costumes (mixed materials),Garbage
+Food-stained paper bags,Garbage
+Mirrors,Garbage
+Laboratory coats,Garbage
+syringes,Garbage
+Polyester sheets,Garbage
+Inflatable pools,Garbage
+Wrapping around pre-packaged foods like meat and cheese,Garbage
+Disposable vape pens,Garbage
+Agar plates,Garbage
+Blood bags,Garbage
+Polystyrene foam (Styrofoam) take-out containers,Garbage
+Orthopedic splints,Garbage
+Non-woven fabrics,Garbage
+Ropes,Garbage
+Rakes,Garbage
+Foil food wrap,Garbage
+Used paper towels,Garbage
+Electric toothbrush bases,Garbage
+Carbon paper,Garbage
+Pet food bags,Garbage
+Diabetic test strips,Garbage
+Forks,Garbage
+Greasy paper towels,Garbage
+Spiral-bound notebooks,Garbage
+Gloves,Garbage
+Biopsy needles,Garbage
+Grips,Garbage
+Hinges,Garbage
+Pesticide containers,Garbage
+Fittings,Garbage
+Wax-coated paper,Garbage
+Asbestos materials,Garbage
+Fruit crates,Garbage
+Parchment paper,Garbage
+Pill packets,Garbage
+Dirt,Garbage
+Surgical gowns,Garbage
+Particleboard,Garbage
+PP caps,Garbage
+Tree branches,Garbage
+Artificial flowers (non-recyclable materials),Garbage
+Cell phones (if not accepted in e-waste),Garbage
+Scoops,Garbage
+Tea bags (non-compostable),Garbage
+Fitness equipment (with electronic components),Garbage
+Stickers and sticker backing paper,Garbage
+Retail packaging (mixed materials),Garbage
+Rock samples,Garbage
+Spoons,Garbage
+Sports wristbands,Garbage
+Tubing,Garbage
+Fitness trackers,Garbage
+Lithium batteries,Garbage
+PVC packaging,Garbage
+Makeup remover pads,Garbage
+Wax-coated paper cups,Garbage
